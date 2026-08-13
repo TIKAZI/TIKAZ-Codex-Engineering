@@ -7,14 +7,7 @@
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Engineering/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Engineering/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.8.0-A78BFA.svg" alt="0.8.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all seven TIKAZ AI Skills for Codex suites</a></p>
 
-<table data-proof-strip="true" width="100%">
-<tr>
-<td data-proof-cell="true" align="center" width="200" title="Specification, impact, implementation, tests, review, and release"><h3>6</h3><sub>Delivery stages</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="One workflow owns acceptance criteria through handoff"><h3>1</h3><sub>Lifecycle owner</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Repository-native tests and static checks remain authoritative"><h3>2</h3><sub>Native quality gates</sub></td>
-<td data-proof-cell="true" align="center" width="200" title="Commands, outcomes, risks, and rollback stay visible"><h3>4</h3><sub>Release evidence fields</sub></td>
-</tr>
-</table>
+<p align="center"><img src="assets/proof-strip.svg" alt="Four verified core advantages" width="100%" /></p>
 
 ---
 
