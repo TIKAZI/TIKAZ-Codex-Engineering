@@ -9,10 +9,10 @@
 
 <table data-proof-strip="true" width="100%">
 <tr>
-<td data-proof-cell="true" align="center" width="25%" title="Specification, impact, implementation, tests, review, and release"><h3>6</h3><sub>Delivery stages</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="One workflow owns acceptance criteria through handoff"><h3>1</h3><sub>Lifecycle owner</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Repository-native tests and static checks remain authoritative"><h3>2</h3><sub>Native quality gates</sub></td>
-<td data-proof-cell="true" align="center" width="25%" title="Commands, outcomes, risks, and rollback stay visible"><h3>4</h3><sub>Release evidence fields</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Specification, impact, implementation, tests, review, and release"><h3>6</h3><sub>Delivery stages</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="One workflow owns acceptance criteria through handoff"><h3>1</h3><sub>Lifecycle owner</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Repository-native tests and static checks remain authoritative"><h3>2</h3><sub>Native quality gates</sub></td>
+<td data-proof-cell="true" align="center" width="200" title="Commands, outcomes, risks, and rollback stay visible"><h3>4</h3><sub>Release evidence fields</sub></td>
 </tr>
 </table>
 
