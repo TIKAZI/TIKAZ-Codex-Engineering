@@ -8,6 +8,16 @@
 
 由 **TIKAZ** 主导设计、整合、独立重构和持续维护。
 
+
+<table data-proof-strip="true" width="100%">
+<tr>
+<td data-proof-cell="true" align="center" width="25%" title="规格、影响、实现、测试、审查与发布"><h3>6</h3><sub>交付阶段</sub></td>
+<td data-proof-cell="true" align="center" width="25%" title="同一工作流从验收条件负责到最终交付"><h3>1</h3><sub>全生命周期责任人</sub></td>
+<td data-proof-cell="true" align="center" width="25%" title="以仓库原生测试和静态检查为准"><h3>2</h3><sub>原生质量门禁</sub></td>
+<td data-proof-cell="true" align="center" width="25%" title="命令、结果、风险与回滚信息保持可见"><h3>4</h3><sub>发布证据字段</sub></td>
+</tr>
+</table>
+
 ## 🧩 可以单独使用的 Skill
 
 | Skill | 用途 |
