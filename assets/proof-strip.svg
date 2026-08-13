@@ -1,8 +1,8 @@
 <svg width="1200" height="170" viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="proof-title">
 <title id="proof-title">6: Specification, impact, implementation, tests, review, and release. 1: One workflow owns acceptance criteria through handoff. 2: Repository-native tests and static checks remain authoritative. 4: Commands, outcomes, risks, and rollback stay visible</title>
 <style>
-.value { fill: #A78BFA; font: 750 46px "Segoe UI", Arial, sans-serif; }
-.label { color: #334155; font: 600 20px/1.35 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
+.value { fill: #A78BFA; font: 750 54px "Segoe UI", Arial, sans-serif; }
+.label { color: #334155; font: 600 24px/1.3 "Segoe UI", "Microsoft YaHei", Arial, sans-serif; text-align: center; }
 @media (prefers-color-scheme: dark) { .label { color: #CBD5E1; } }
 </style>
 <g class="proof" aria-label="Specification, impact, implementation, tests, review, and release"><text class="value" x="150" y="70" text-anchor="middle">6</text><foreignObject x="15" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Delivery stages</div></foreignObject></g><g class="proof" aria-label="One workflow owns acceptance criteria through handoff"><text class="value" x="450" y="70" text-anchor="middle">1</text><foreignObject x="315" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Lifecycle owner</div></foreignObject></g><g class="proof" aria-label="Repository-native tests and static checks remain authoritative"><text class="value" x="750" y="70" text-anchor="middle">2</text><foreignObject x="615" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Native quality gates</div></foreignObject></g><g class="proof" aria-label="Commands, outcomes, risks, and rollback stay visible"><text class="value" x="1050" y="70" text-anchor="middle">4</text><foreignObject x="915" y="91" width="270" height="64"><div xmlns="http://www.w3.org/1999/xhtml" class="label">Release evidence fields</div></foreignObject></g>
