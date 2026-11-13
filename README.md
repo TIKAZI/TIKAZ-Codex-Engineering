@@ -4,7 +4,7 @@
 
 <h1 align="center">TIKAZ Engineering Workflows for Codex</h1>
 <p align="center"><strong>Production delivery from specification and impact mapping to tests, review, and release evidence.</strong></p>
-<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Engineering/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Engineering/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.8.0-A78BFA.svg" alt="0.8.0" /></p>
+<p align="center"><a href="https://github.com/TIKAZI/TIKAZ-Codex-Engineering/actions/workflows/validate.yml"><img src="https://github.com/TIKAZI/TIKAZ-Codex-Engineering/actions/workflows/validate.yml/badge.svg" alt="Validate" /></a> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-f4c95d.svg" alt="MIT" /></a> <img src="https://img.shields.io/badge/version-0.13.0-A78BFA.svg" alt="0.13.0" /></p>
 <p align="center"><a href="https://github.com/TIKAZI/TIKAZ-AI-Skills">← Explore all seven TIKAZ AI Skills for Codex suites</a></p>
 
 <p align="center"><img src="assets/proof-strip.svg" alt="Four verified core advantages" width="100%" /></p>
@@ -56,6 +56,7 @@ Review this unfamiliar repository and produce an architecture map before proposi
 Audit this third-party Skill for credential, permission, dependency, and prompt-injection risks before installation.
 ```
 
+
 ## 🔄 How the suite works
 
 Read [SKILL.md](SKILL.md) for the owning workflow, [references/routing.md](references/routing.md) for specialist routing, and [references/output-contract.md](references/output-contract.md) for the verified handoff. Optional tools are detected at runtime; local login state or machine-specific software is never promised as universally available.
@@ -80,4 +81,7 @@ Source modes, observed licenses, and concrete TIKAZ contributions are recorded i
 
 ## 🌐 Explore the TIKAZ workflow family
 
+[🧠 Context On-Premise](https://github.com/TIKAZI/TIKAZ-Codex-Context-OnPremise) is the optional dependency-rich companion to portable Context Economy.
+
 [🏠 AI Skills](https://github.com/TIKAZI/TIKAZ-AI-Skills) · [⚡ Context Economy](https://github.com/TIKAZI/TIKAZ-Codex-Context-Economy) · [🎨 Frontend Design](https://github.com/TIKAZI/TIKAZ-Codex-Frontend-Design) · [🎬 Video Intelligence](https://github.com/TIKAZI/TIKAZ-Codex-Video-Intelligence) · [🛠️ Engineering](https://github.com/TIKAZI/TIKAZ-Codex-Engineering) · [🔬 Research](https://github.com/TIKAZI/TIKAZ-Codex-Knowledge-Research) · [📽️ Presentation](https://github.com/TIKAZI/TIKAZ-Codex-Presentation) · [🖼️ Visual Content](https://github.com/TIKAZI/TIKAZ-Codex-Visual-Content)
+
